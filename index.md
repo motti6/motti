@@ -30,7 +30,7 @@ $$ a^2 + b^2 = c^2 $$
 
 $$ \frac{d}{dx} \int_a^x f(t)dt = f(x)$$
 
-$$ \bar{x} = \frac{1}{n} \Bigg(\sum{i=1}^n x_i\Bigg) = frac{x_1 + x_2 + \cdots + x_n}{n}$$
+$$ \bar{x} = \frac{1}{n} \Bigg(\sum{i=1}^n x_i\Bigg) = \frac{x_1 + x_2 + \cdots + x_n}{n}$$
 
 $$
   M = 
